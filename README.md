@@ -1,4 +1,4 @@
-npm install -g bower gulp
-npm install
-bower install
-gulp serve
+- npm install -g bower gulp
+- npm install
+- bower install
+- gulp serve
